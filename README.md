@@ -1,3 +1,4 @@
+[![](https://visitcount.itsvg.in/api?id=cascadingGeek&icon=8&color=9)](https://visitcount.itsvg.in)
 # 💫 About Me:
 🔭 I’m currently working on a Blockchain Decentralized App (DApp)<br><br>👯 I’m looking to collaborate on innovative frontend projects, especially those involving new technologies like blockchain, decentralized applications, or any complex single-page applications using any modern JavaScript frameworks.<br><br>🤝 I’m looking for help with deepening my understanding of Angular best practices and advanced features. I am also interested in learning more about smart contracts and backend integration for blockchain applications.<br><br>🌱 I’m currently learning Angular JS to broaden my skill set in frontend development. Additionally, I am exploring more about blockchain technologies and their applications in creating decentralized systems.<br><br>💬 Ask me about building user-friendly interfaces for decentralized applications, the challenges and solutions in integrating blockchain with frontend technologies, or anything related to frontend development using frameworks like React, React Native, Next and Svelte.<br><br>⚡ Fun fact: When I'm not coding, I enjoy playing football and immersing myself in video games. I'm a big fan of both, and I find that they provide a great balance to my professional life by keeping me active and helping me relax.
 
@@ -20,6 +21,3 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=cascadingGeek&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=cascadingGeek&icon=8&color=9)](https://visitcount.itsvg.in)
