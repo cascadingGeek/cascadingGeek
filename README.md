@@ -1,5 +1,5 @@
 <div align="right">
-[![](https://visitcount.itsvg.in/api?id=cascadingGeek&icon=0&color=3)](https://visitcount.itsvg.in)
+![](https://visitcount.itsvg.in/api?id=cascadingGeek&icon=0&color=3)](https://visitcount.itsvg.in)
 </div>
 <br/>
 
