@@ -1,10 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=099700&random=false&width=435&lines=Hi+There+%F0%9F%91%8B%2C+I'm+Ajibola+Dada)](https://git.io/typing-svg)
-
 <br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=099700&random=false&width=435&lines=Hi+There!+%F0%9F%91%8B;I'm+Ajibola+Dada++%F0%9F%98%8A)](https://git.io/typing-svg)
-
-<div align="center">
 
 💫 A Passionate Frontend Engineer
 
@@ -19,8 +15,6 @@
 💬 Ask me about building user-friendly interfaces for decentralized applications, the challenges and solutions in integrating blockchain with frontend technologies, or anything related to frontend development using frameworks like React, React Native, Next and Svelte.
 <br><br>
 ⚡ Fun fact: When I'm not coding, I enjoy playing football and immersing myself in video games. I'm a big fan of both, and I find that they provide a great balance to my professional life by keeping me active and helping me relax.
-
-</div>
 
 
 ## 🌐 Socials:
