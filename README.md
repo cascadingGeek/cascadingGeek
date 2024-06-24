@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=099700&random=false&width=435&lines=Hi+There!+%F0%9F%91%8B;I'm+Ajibola+Dada++%F0%9F%98%8A)](https://git.io/typing-svg)
 
-💫 A Passionate Frontend Engineer
+<h3> A Passionate Frontend Engineer </h3>
 
 🔭 I’m currently working on a Blockchain Decentralized App (DApp)
 <br><br>
